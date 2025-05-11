@@ -1,0 +1,37 @@
+<CENTER>
+  <TABLE id="HPB_DIARY_TABLE2T" width="400" cellspacing="15" cellpadding="0" border="0">
+    <TBODY>
+      <TR>
+        <TD>
+        <TABLE width="100%" border="1" cellspacing="2" cellpadding="2">
+          <TBODY>
+            <TR>
+              <TD id="HPB_DIARY_DATE" bgcolor="#009999" colspan="2" class="hpb_diary_date"><FONT color="#ffffff">2020年5月1日（金）</FONT></TD>
+            </TR>
+            <TR>
+              <TD id="HPB_DIARY_TITLE" bgcolor="#009999" colspan="2" class="hpb_diary_title"><B><FONT color="#ffffff">今日の様子</FONT></B></TD>
+            </TR>
+            <TR>
+              <TD colspan="2">
+              <TABLE border="0" cellpadding="3" cellspacing="0">
+                <TBODY>
+                  <TR>
+                    <TD id="HPB_DIARY_TEXT" width="100%" rowspan="2" valign="top" class="hpb_diary_contents">
+                    <P><FONT color="000000">園庭のお花を観察したり、ボルダリングをしたりして遊びました。</FONT></P>
+                    </TD>
+                    <TD valign="top" class="hpb_diary_contents"><IMG id="HPB_DIARY_IMG0" src="file:///C:/Users/保育園/AppData/Roaming/Justsystem/Homepage Builder Version 18/tmp/IMG_8545.jpg" width="133" height="100" border="0"></TD>
+                  </TR>
+                  <TR>
+                    <TD valign="top" class="hpb_diary_contents"></TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        </TD>
+      </TR>
+    </TBODY>
+  </TABLE>
+  </CENTER>

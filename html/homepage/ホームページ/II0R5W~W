@@ -1,0 +1,39 @@
+<CENTER>
+<TABLE id="HPB_DIARY_TABLE2T" width="400" cellspacing="15" cellpadding="0" border="0">
+  <TBODY>
+    <TR>
+      <TD>
+      <TABLE width="100%" border="1" cellspacing="2" cellpadding="2">
+        <TBODY>
+          <TR>
+            <TD id="HPB_DIARY_DATE" bgcolor="ff6699" colspan="2" class="hpb_diary_date"><FONT color="#ffffff">2016年9月30日（金）</FONT></TD>
+          </TR>
+          <TR>
+            <TD id="HPB_DIARY_TITLE" bgcolor="ff6699" colspan="2" class="hpb_diary_title"><B><FONT color="#ffffff">今日の様子</FONT></B></TD>
+          </TR>
+          <TR>
+            <TD colspan="2">
+            <TABLE border="0" cellpadding="3" cellspacing="0">
+              <TBODY>
+                <TR>
+                  <TD id="HPB_DIARY_TEXT" width="100%" rowspan="2" valign="top" class="hpb_diary_contents">
+                  <P><FONT color="000000">今日はきいちごさんが園庭で遊びました。</FONT><BR>
+                  <FONT color="000000">あんよも上手になって、気になるところへ行ったり来たり。</FONT><BR>
+                  <FONT color="000000">運動会の練習もとても頑張っています。</FONT></P>
+                  </TD>
+                  <TD valign="top" class="hpb_diary_contents"><IMG id="HPB_DIARY_IMG0" src="file:///C:/Users/保育園/AppData/Roaming/Justsystem/Homepage Builder Version 18/tmp/IMG_2952.JPG" width="133" height="100" border="0"></TD>
+                </TR>
+                <TR>
+                  <TD valign="top" class="hpb_diary_contents"></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>

@@ -1,0 +1,167 @@
+@charset   "Shift_JIS";
+/*2009ビルダーデザインテンプレート用table.css
+-----------------------------------------------------------------------------------
+menu
+(1)テーブルの基本的な指定、(2)サブヘッドのデザイン、(3)表のデザイン（主に背景とborderのみ指定）
+-----------------------------------------------------------------------------------*/
+
+
+/*-----------------------------------------------------
+ (1)テーブルの基本的な指定
+-----------------------------------------------------*/
+/*---テーブルの文字サイズ---*/
+
+table {
+	font-size: 1em;
+}
+/*-----------------------------------------------------
+ (2)サブヘッドのデザイン
+-----------------------------------------------------*/
+/*---デザイン1---*/
+
+#subhead1 {
+	width: 100%;
+}
+
+#subhead1 .td1 {
+	font-weight: bold;
+	background: #f1ffc4;
+	text-indent: 10px;
+	font-size: 0.9em;
+	line-height: 1.2em;
+	color: #69752a;
+}
+
+#subhead1 .td2 {
+	background: #f1ffc4;
+}
+/*---デザイン2---*/
+
+#subhead2 {
+	width: 100%;
+}
+
+#subhead2 .td1 {
+	font-weight: bold;
+	background: #f1ffc4;
+	text-indent: 10px;
+	font-size: 0.9em;
+	line-height: 1.2em;
+	color: #69752a;
+	border-top: 1px solid #66C2C2;
+	border-left: 1px solid #66C2C2;
+}
+
+#subhead2 .td2 {
+	background: #f1ffc4;
+	border-top: 1px solid #66C2C2;
+	border-right: 1px solid #66C2C2;
+}
+/*-----------------------------------------------------
+ (3)表のデザイン（主に背景とborderのみ指定）
+-----------------------------------------------------*/
+/*---デザイン1---*/
+
+#gridtb-1 .gridtd-t {
+	border-right: none;
+	border-top: 1px solid #66C2C2;
+}
+
+#gridtb-1 .gridtd-r {
+	border-right: 1px solid #66C2C2;
+}
+
+#gridtb-1 .gridtd-b {
+	border-bottom: 1px solid #66C2C2;
+}
+
+#gridtb-1 .gridtd-l {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #66C2C2;
+}
+
+#gridtb-1 .gridtd-tr {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #66C2C2;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #66C2C2;
+}
+
+#gridtb-1 .gridtd-tb {
+	border-top: 1px solid #66C2C2;
+	border-bottom: 1px solid #66C2C2;
+}
+
+#gridtb-1 .gridtd-tl {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #66C2C2;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #66C2C2;
+}
+
+#gridtb-1 .gridtd-rb {
+	border-right: 1px solid #66C2C2;
+	border-bottom: 1px solid #66C2C2;
+}
+
+#gridtb-1 .gridtd-bl {
+	border-bottom: 1px solid #66C2C2;
+	border-left: 1px solid #66C2C2;
+}
+
+#gridtb-1 .gridtd-trb {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #66C2C2;
+	border-right-color: #66C2C2;
+	border-bottom-color: #66C2C2;
+}
+
+#gridtb-1 .gridtd-tbl {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #66C2C2;
+	border-bottom-color: #66C2C2;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #66C2C2;
+}
+
+#gridtb-1 .gridtd-rbl {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #66C2C2;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #66C2C2;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #66C2C2;
+}
+
+#gridtb-1 .gridtd-trbl {
+	border: 1px solid #66C2C2;
+}
+/*-----------------------------------------------------
+ (4)BOXのデザイン（主に背景とborderのみ指定）
+-----------------------------------------------------*/
+
+#infobox-1 .td-1 {
+	background: #F8FFB9;
+	border: 1px solid #AFC179;
+}
+
+#infobox-2 #infobox-2 .td-1 {
+	background: #FFEDD9;
+}
